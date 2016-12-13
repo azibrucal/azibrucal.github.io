@@ -1,7 +1,7 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "A. JOHN WOODILL"
+  title: "ARLAN BRUCAL"
   left:
     - text: "Home"
       icon: fa-home
@@ -9,18 +9,10 @@ navbar:
     - text: "CV"
       icon: fa-file
       href: cv.html
-    - text: "Research"
-      icon: fa-globe
+    - text: "Papers"
+      icon: fa-book
       href: research.html
-    - text: "Code"
-      icon: fa-code
-      href: code.html
-    - text: "Blog"
+    - text: "Teaching"
       icon: fa-pencil
-      href: http://johnwoodill.blogspot.com
-    - text: "hub"
-      icon: fa-git
-      href: http://www.github.com/johnwoodill/
-    - text: "Google Scholar"
-      icon: fa-graduation-cap
-      href: https://scholar.google.com/citations?user=FOD51c4AAAAJ&hl=en
+      href: teaching.html
+

@@ -10,25 +10,25 @@ output:
 <br>
 <br>
 
-![](images/john.png) 
+![](images/abrucal.jpg) 
 
 <br>
 
-I'm currently a third year Ph.D. student in Economics at the University of Hawai'i at Manoa. My research interest focuses on resource and environmental economics. I'm currently working on climate models that provide insight into direct and belief effects of a changing climate.
+I am a Postdoctoral Research Fellow at the University of Hawaii Economic Research Organization (UHERO). My areas of specialization include Environmental Economics, International Trade and Energy Economics.
 
 Feel free to contact me through email.
 
-A. John Woodill
+Arlan Brucal
 
-johnwoodill [at] gmail.com
+al[at]hawaii.edu; azibrucal[at]gmail.com
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+Address:
 
-  ga('create', 'UA-61017136-2', 'auto');
-  ga('send', 'pageview');
+742 Lukepane Avenue
+Honolulu, HI 96816
+USA
 
-</script>
+Block 14 Lot 36 Westbay Homes
+Daan-Bukid, Bacoor, Cavite
+Philippines 4102
+
