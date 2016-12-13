@@ -9,26 +9,26 @@ output:
 
 <br>
 <br>
-
+<center>
+<div style="width:300px; height=200px">
 ![](images/abrucal.jpg) 
-
+</div>
+</center>
 <br>
 
 I am a Postdoctoral Research Fellow at the University of Hawaii Economic Research Organization (UHERO). My areas of specialization include Environmental Economics, International Trade and Energy Economics.
 
 Feel free to contact me through email.
 
-Arlan Brucal
+**Arlan Brucal**
 
-al[at]hawaii.edu; azibrucal[at]gmail.com
+al[at]hawaii.edu
 
-Address:
+azibrucal[at]gmail.com
 
-742 Lukepane Avenue
-Honolulu, HI 96816
-USA
+**Address**
 
-Block 14 Lot 36 Westbay Homes
-Daan-Bukid, Bacoor, Cavite
-Philippines 4102
+Current: 742 Lukepane Avenue Honolulu, HI 96816 USA
+
+Previous: Block 14 Lot 36 Westbay Homes Daan-Bukid, Bacoor, Cavite Philippines 4102
 
