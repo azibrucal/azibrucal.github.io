@@ -21,7 +21,7 @@ I am a Postdoctoral Research Fellow at the London School of Economics and Politi
 Feel free to contact me. 
 
 **Contact Details**
-The London School of Economics and Political Science
+The London School of Economics and Political Science <br>
 Houghton Street, London 
 WC2A 2AE UK
 Ph: +44 (0)20 7107 5027 or +44 (0)20 7107 5440
