@@ -12,7 +12,6 @@ output:
 [Download (PDF) ](images/CV_ArlanBrucal.pdf)
 
 ![](images/ArlanBrucal_CV-page-001.jpg)
-
 ![](images/ArlanBrucal_CV-page-002.jpg)
 
 <script>
