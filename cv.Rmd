@@ -9,13 +9,13 @@ output:
 
 <br>
 
-[Download (PDF) ](images/CV_ArlanBrucal.pdf)
+[Download (PDF) ](images/CV_ArlanBrucalb.pdf)
 
-![](images/ArlanBrucal_CV-page-001.jpg)
+![](images/ArlanBrucal_CV-page-001b.jpg)
 
-![](images/ArlanBrucal_CV-page-002.jpg)
+![](images/ArlanBrucal_CV-page-002b.jpg)
 
-![](images/ArlanBrucal_CV-page-003.jpg)
+![](images/ArlanBrucal_CV-page-003b.jpg)
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
