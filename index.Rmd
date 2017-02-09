@@ -16,7 +16,7 @@ output:
 </center>
 <br>
 
-I am a Postdoctoral Research Fellow at the London School of Economics and Political Science - Grantham Research Institute for Climate Change and the Environment. My areas of specialization is Applied Econometrics with emphasis on Environmental Economics, International Trade and Energy Economics.
+I am a Postdoctoral Research Fellow at the London School of Economics and Political Science - Grantham Research Institute for Climate Change and the Environment. I am interested in applied econometrics with emphasis in the fields of environmental and energy economics and international trade. My research uses microdata to analyze the economics of household- and firm-level energy consumption and investment on energy-efficient technologies.  
 
 Feel free to contact me. 
 
